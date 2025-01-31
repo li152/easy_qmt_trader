@@ -1,0 +1,2 @@
+一介绍 easy_qmt_trader
+easy_qmt_trader是建立在xtquant的二次开发的接口接口，使用方便，从qmt——trader复杂的系统里面独立出来
